@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Alpha Finance", "Time": "2021-02-13", "Platform": "ETH", "AttackTx": "0x7eb2436eedd39c8865fcc1e51ae4a245e89765f4c64a13200c623f676b3912f9", "DefectiveContract": ["0x33bf0bb8e1405dc440eccb97ffd92fef438c8a27"], "AttackSurface": "Borrowing a loan, lending"}

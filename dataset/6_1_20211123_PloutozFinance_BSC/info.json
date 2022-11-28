@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Ploutoz Finance", "Time": "2021-11-23", "Platform": "BSC", "AttackTx": "0x7fe46c2746855dd57e18f4d33522849ff192e4e26c74835799ba8dab89099457", "DefectiveContract": ["0x067d0a19e92a65caa2fcd8f3c88da8851fcd3771", "0x86043747dae9b6dd80c463a29e5b21e50bef5e7d"], "AttackSurface": "Depositing collaterals, lending"}

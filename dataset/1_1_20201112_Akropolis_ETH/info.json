@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Akropolis", "Time": "2020-11-12", "Platform": "ETH", "AttackTx": "0xe1f375a47172b5612d96496a4599247049f07c9a7d518929fbe296b0c281e04d", "DefectiveContract": ["0x1cec0e358f882733c5ecc028d8a0c24baee02004"], "AttackSurface": "Injecting liquidity, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Paraluni", "Time": "2022-03-13", "Platform": "BSC", "AttackTx": "0x70f367b9420ac2654a5223cc311c7f9c361736a39fd4e7dff9ed1b85bab7ad54", "DefectiveContract": ["0xa386f30853a7eb7e6a25ec8389337a5c6973421d"], "AttackSurface": "Injecting liquidity, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Zabu Finance", "Time": "2021-09-12", "Platform": "Avalanche", "AttackTx": "0x0d65ce5c7a0c072b14ec5da08488d07778f334a7ddb6b7a30df97f274f3e1eb3", "DefectiveContract": ["0xf61b4f980a1f34b55bbf3b2ef28213efcc6248c4"], "AttackSurface": "Claiming rewards,investment"}

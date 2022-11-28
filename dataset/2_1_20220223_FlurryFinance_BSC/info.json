@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Flurry Finance", "Time": "2022-02-23", "Platform": "BSC", "AttackTx": "0xff1071c663b4614756d75301ebb207b40174894021542043db7e2227e19dc890", "DefectiveContract": ["0x10f2c0d32803c03fc5d792ad3c19e17cd72ad68b", "0xec7fa7a14887c9cac12f9a16256c50c15dada5c4"], "AttackSurface": "Getting LP tokens, investment"}

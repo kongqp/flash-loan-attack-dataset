@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Sanshu Inu", "Time": "2021-07-20", "Platform": "ETH", "AttackTx": "0x00edd68087ee372a1b6e05249cc6c992bb7b8478cc0ddc70c2a1453428285808", "DefectiveContract": ["0x35c674c288577df3e9b5dafef945795b741c7810"], "AttackSurface": "Claiming rewards,investment"}

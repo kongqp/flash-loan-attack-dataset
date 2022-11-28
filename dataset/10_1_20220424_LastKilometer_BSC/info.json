@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Last Kilometer", "Time": "2022-04-24", "Platform": "BSC", "AttackTx": "0x8eeb0591a7e3a153ed3511eec46783edd1e865c857bb9eb0d24d749445d22859", "DefectiveContract": ["0x057fe585b2f773d5d7be05d98ef16218dea794b2"], "AttackSurface": "receiving token by users, exchange"}

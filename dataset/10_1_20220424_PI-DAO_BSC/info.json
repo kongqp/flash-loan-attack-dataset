@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "PI-DAO", "Time": "2022-04-24", "Platform": "BSC", "AttackTx": "0xc6f2e10a856dcc89e856fc626cd91c2edc5c123309fbb3314e14d19b62e1d1bd", "DefectiveContract": ["0x4b3865ac3df36e4c7ea5efa4c28a8b369cfd5b92"], "AttackSurface": "receiving token by users, exchange"}

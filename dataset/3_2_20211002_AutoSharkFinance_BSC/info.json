@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "AutoShark Finance", "Time": "2021-10-02", "Platform": "BSC", "AttackTx": "0x640ce34ce69ff5a034edc6df6e43fd80cc08d02a36d262e131d37ead990fff29", "DefectiveContract": ["0x5f9cf289df23bc93855bb0e3adfd7b40c2ef11c1"], "AttackSurface": "Claiming rewards,investment"}

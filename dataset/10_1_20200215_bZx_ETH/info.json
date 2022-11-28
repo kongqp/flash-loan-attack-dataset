@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "bZx", "Time": "2020-02-15", "Platform": "ETH", "AttackTx": "0xb5c8bd9430b6cc87a0e2fe110ece6bf527fa4f170a4bc8cd032f768fc5219838", "DefectiveContract": ["0x7d8bb0dcFB4F20115883050F45b517459735181b"], "AttackSurface": "receiving token by users, exchange"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Fswap", "Time": "2022-06-14", "Platform": "BSC", "AttackTx": "0xe75e30dafd865331e6a002d50effe084c21e413c96d4550d5e09cf647686fcbe", "DefectiveContract": ["0x0d5F1226bd91b5582F6ED54DeeE739CAC49C37Db"], "AttackSurface": "receiving token by users, exchange"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Belt Finance", "Time": "2021-05-29", "Platform": "BSC", "AttackTx": "0x50b0c05dd326022cae774623e5db17d8edbc41b4f064a3bcae105f69492ceadc", "DefectiveContract": ["0xa56e834fbc2087024d329aa69eec1392d0a8d4c4"], "AttackSurface": "receiving token by users, exchange"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "EvoDeFi", "Time": "2021-06-10", "Platform": "BSC", "AttackTx": "0x7c3b7f082a5c92b03a878ff5d7c7e645ce3bcd37901808b936b318c4f3cc3880", "DefectiveContract": ["0xf1f8e3ff67e386165e05b2b795097e95aac899f0"], "AttackSurface": "Claiming rewards,investment"}

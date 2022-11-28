@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Array.Finance", "Time": "2021-07-18", "Platform": "ETH", "AttackTx": "0xa17bbc7c9ab17aa88fdb5de83b41de982845e9c9c072efff6709dd29febf0daa", "DefectiveContract": ["0xc1ced83d4dc4c63e92f79b9447981f3be5d53c83"], "AttackSurface": "receiving token by users, exchange"}

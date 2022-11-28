@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "JulSwap", "Time": "2021-05-28", "Platform": "BSC", "AttackTx": "0x1751268e620767ff117c5c280e9214389b7c1961c42e77fc704fd88e22f4f77a", "DefectiveContract": ["0x41a2f9ab325577f92e8653853c12823b35fb35c4"], "AttackSurface": "receiving token by users, exchange"}

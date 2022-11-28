@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Cream Finance", "Time": "2021-08-30", "Platform": "ETH", "AttackTx": "0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6 ", "DefectiveContract": ["0x02e795eec131246128346d17d2f564d7bf7c705b"], "AttackSurface": "Borrowing a loan, lending"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Harvest", "Time": "2020-10-26", "Platform": "ETH", "AttackTx": "0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877", "DefectiveContract": ["0x9b3be0cc5dd26fd0254088d03d8206792715588b"], "AttackSurface": "Getting LP tokens, investment"}

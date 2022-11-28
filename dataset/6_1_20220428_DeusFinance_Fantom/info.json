@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Deus Finance", "Time": "2022-04-28", "Platform": "Fantom", "AttackTx": "0x39825ff84b44d9c9983b4cff464d4746d1ae5432977b9a65a92ab47edac9c9b5", "DefectiveContract": ["0x8d643d954798392403eea19db8108f595bb8b730"], "AttackSurface": "Depositing collaterals, lending"}

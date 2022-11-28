@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Dot.Finance", "Time": "2021-08-25", "Platform": "BSC", "AttackTx": "0x68170a309ab2e944e178ccf9bf6f19e25a3f356031ce53539bb9669fc77172f2", "DefectiveContract": ["0xbfca3b1df0ae863e966b9e35b9a3a3fee2ad8b07", "0xfc3920bcffb412e2686e76c194cd8935bd651a90"], "AttackSurface": "Claiming rewards,investment"}

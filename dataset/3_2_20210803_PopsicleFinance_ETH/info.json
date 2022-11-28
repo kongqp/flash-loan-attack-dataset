@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Popsicle Finance", "Time": "2021-08-03", "Platform": "ETH", "AttackTx": "0xcd7dae143a4c0223349c16237ce4cd7696b1638d116a72755231ede872ab70fc", "DefectiveContract": ["0xc4ff55a4329f84f9bf0f5619998ab570481ebb48"], "AttackSurface": "Claiming rewards,investment"}

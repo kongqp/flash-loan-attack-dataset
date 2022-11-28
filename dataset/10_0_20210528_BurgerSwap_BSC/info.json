@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "BurgerSwap", "Time": "2021-05-28", "Platform": "BSC", "AttackTx": "0xac8a739c1f668b13d065d56a03c37a686e0aa1c9339e79fcbc5a2d0a6311e333", "DefectiveContract": ["0xbf6527834dbb89cdc97a79fcd62e6c08b19f8ec0"], "AttackSurface": "receiving token by users, exchange"}

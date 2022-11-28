@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Formation.Fi", "Time": "2021-11-21", "Platform": "ETH", "AttackTx": "0xb4916e065cc8e70d7cd96ad7048aaaec66fa66ccbd673d7a8bdefda09e44930a", "DefectiveContract": ["0xcb6afdc84e8949ddf49ab00b5b351a5b0f65a723"], "AttackSurface": "Removing liquidity, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Inverse Finance", "Time": "2022-06-16", "Platform": "ETH", "AttackTx": "0x958236266991bc3fe3b77feaacea120f172c0708ad01c7a715b255f218f9313c", "DefectiveContract": ["0xe8b3bc58774857732c6c1147bfc9b9e5fb6f427c"], "AttackSurface": "Depositing collaterals, lending"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Redemption Defi", "Time": "2022-04-16", "Platform": "Fantom", "AttackTx": "0xb134f5d0609863aeaab8b8aeb77765a7a0f1e6a379c27455845e46d2261c46a9", "DefectiveContract": ["0x5d59cdab08c8bbe4986173a628f8305d52b1b4ae"], "AttackSurface": "receiving token by users, exchange"}

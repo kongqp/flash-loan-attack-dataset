@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "EthProduct", "Time": "2022-08-04", "Platform": "BSC", "AttackTx": "0x72321a3b50bb68ac3b46b0ab973b0e87b6c48ab73d23c4ba2cb73527f978d995", "DefectiveContract": ["0x1292267f726e6f313972ec4e14578735473e1649", "0x10ed43c718714eb63d5aa57b78b54704e256024e"], "AttackSurface": "receiving token by users, exchange"}

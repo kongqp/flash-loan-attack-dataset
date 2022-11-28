@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "BT.Finance", "Time": "2021-02-09", "Platform": "ETH", "AttackTx": "0xc71cea6fa00d11e98f6733ee8740f239cb37b11dec29e7cf85d7a4077977fa65", "DefectiveContract": ["0xded1219b5ba4da3a9d57c9f12c0d5da50f2fc4a2"], "AttackSurface": "Claiming rewards,investment"}

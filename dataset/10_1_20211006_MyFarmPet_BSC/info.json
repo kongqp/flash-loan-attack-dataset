@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "My Farm Pet", "Time": "2021-10-06", "Platform": "BSC", "AttackTx": "0x7c5de9f5bc8b3f725b9511eba0e18a7f8410b9b6379f142be6660770714a6475", "DefectiveContract": ["0x00cc9375a6579b5375813ed8d41eafda6d519409"], "AttackSurface": "receiving token by users, exchange"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "bEarn Fi", "Time": "2021-05-16", "Platform": "BSC", "AttackTx": "0x603b2bbe2a7d0877b22531735ff686a7caad866f6c0435c37b7b49e4bfd9a36c", "DefectiveContract": ["0x21125d94cfe886e7179c8d2fe8c1ea8d57c73e0e"], "AttackSurface": "Removing liquidity, investment"}

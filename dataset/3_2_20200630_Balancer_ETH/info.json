@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Balancer", "Time": "2020-06-30", "Platform": "ETH", "AttackTx": "0xa519835c366bc77d93c9d3e433e653bfc46120688ad146b383f4dd93342cad29", "DefectiveContract": ["0xfb44d6ebd1c659ecdb199111f9dce55a8b4d5df1"], "AttackSurface": "Claiming rewards,investment"}

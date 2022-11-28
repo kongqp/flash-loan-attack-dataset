@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Medamon", "Time": "2022-04-24", "Platform": "BSC", "AttackTx": "0x584a28f8a7dbd97fa7b2114219bac2022e1d65cdddf3d6ce76be6089c329bb06", "DefectiveContract": ["0x54f227fe27ac93d3e1c09b443f03e5e929ee5259"], "AttackSurface": "receiving token by users, exchange"}

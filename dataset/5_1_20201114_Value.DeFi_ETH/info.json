@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Value.DeFi", "Time": "2020-11-14", "Platform": "ETH", "AttackTx": "0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a", "DefectiveContract": ["0xddd7df28b1fb668b77860b473af819b03db61101"], "AttackSurface": "Removing liquidity, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Spartan", "Time": "2021-05-02", "Platform": "BSC", "AttackTx": "0xb64ae25b0d836c25d115a9368319902c972a0215bd108ae17b1b9617dfb93af8", "DefectiveContract": ["0xcaf0366af95e8a03e269e52ddb3dbb8a00295f91"], "AttackSurface": "Removing liquidity, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Equalizer Finance", "Time": "2022-06-07", "Platform": "Polygon", "AttackTx": "0x60efddd55e899e66f4cb31e766c2a09d9c510956d057025df5bfd7a9dd722175", "DefectiveContract": ["0x3befd5085a3e3c59a92be6a1ff192ea785beac5d"], "AttackSurface": "Getting LP tokens, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Elephant Money", "Time": "2022-04-13", "Platform": "BSC", "AttackTx": "0xec317deb2f3efdc1dbf7ed5d3902cdf2c33ae512151646383a8cf8cbcd3d4577", "DefectiveContract": ["0xd520a3b47e42a1063617a9b6273b206a07bdf834"], "AttackSurface": "Removing liquidity, investment"}

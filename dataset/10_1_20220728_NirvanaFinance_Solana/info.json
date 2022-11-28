@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Nirvana Finance", "Time": "2022-07-28", "Platform": "Solana", "AttackTx": "76w4SBe2of2wWUsx2FjkkwD29rRznfvEkBa1upSbTAWH", "DefectiveContract": [], "AttackSurface": "receiving token by users, exchange"}

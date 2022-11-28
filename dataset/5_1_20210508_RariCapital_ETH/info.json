@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Rari Capital", "Time": "2021-05-08", "Platform": "ETH", "AttackTx": "0x171072422efb5cd461546bfe986017d9b5aa427ff1c07ebe8acc064b13a7b7be", "DefectiveContract": ["0xec260f5a7a729bb3d0c42d292de159b4cb1844a3", "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a"], "AttackSurface": "Removing liquidity, investment"}

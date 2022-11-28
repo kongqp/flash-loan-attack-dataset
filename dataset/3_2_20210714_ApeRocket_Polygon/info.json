@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "ApeRocket", "Time": "2021-07-14", "Platform": "Polygon", "AttackTx": "0x377fb92f6e04db4bf5a0917a79d171ce27b28deaa23594b7fc498dd080cf9d35", "DefectiveContract": ["0xe24574caa69566ad16ece4764788be9034f6bc15"], "AttackSurface": "Claiming rewards,investment"}

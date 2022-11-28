@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Indexed Finance", "Time": "2021-10-15", "Platform": "ETH", "AttackTx": "0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa", "DefectiveContract": ["0x120c6956d292b800a835cb935c9dd326bdb4e011"], "AttackSurface": "Getting LP tokens, investment"}

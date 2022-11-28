@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "OUSD", "Time": "2020-11-17", "Platform": "ETH", "AttackTx": "0xe1c76241dda7c5fcf1988454c621142495640e708e3f8377982f55f8cf2a8401", "DefectiveContract": ["0x328d15f6b5eba1c30cde1a5f1f5a9e35b07f5424"], "AttackSurface": "Claiming rewards,investment"}

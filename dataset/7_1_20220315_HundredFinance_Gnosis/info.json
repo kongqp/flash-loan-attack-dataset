@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Hundred Finance", "Time": "2022-03-15", "Platform": "Gnosis ", "AttackTx": "0x534b84f657883ddc1b66a314e8b392feb35024afdec61dfe8e7c510cfac1a098", "DefectiveContract": ["0x090a00a2de0ea83def700b5e216f87a5d4f394fe"], "AttackSurface": "Borrowing a loan, lending"}

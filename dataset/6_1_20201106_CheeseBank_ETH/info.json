@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Cheese Bank", "Time": "2020-11-06", "Platform": "ETH", "AttackTx": "0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc", "DefectiveContract": ["0x7a250d5630b4cf539739df2c5dacb4c659f2488d"], "AttackSurface": "Depositing collaterals, lending"}

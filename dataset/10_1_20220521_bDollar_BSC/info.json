@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "bDollar", "Time": "2022-05-21", "Platform": "BSC", "AttackTx": "0x9b16b1b3bf587db1257c06bebd810b4ae364aab42510d0d2eb560c2565bbe7b4", "DefectiveContract": ["0xEca7fC4c554086198dEEbCaff6C90D368dC327e0"], "AttackSurface": "receiving token by users, exchange"}

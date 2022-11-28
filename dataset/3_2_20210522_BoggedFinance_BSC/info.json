@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Bogged Finance", "Time": "2021-05-22", "Platform": "BSC", "AttackTx": "0xa9860033322aefa39538db51a1ed47cfae7e4b161254d53dbf735f1f16502710", "DefectiveContract": ["0xd7b729ef857aa773f47d37088a1181bb3fbf0099"], "AttackSurface": "Claiming rewards,investment"}

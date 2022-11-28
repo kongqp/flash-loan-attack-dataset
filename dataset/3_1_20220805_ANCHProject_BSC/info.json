@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "ANCH Project", "Time": "2022-08-05", "Platform": "BSC", "AttackTx": "0xa56eab5edacddb894a8aeb4049badd5a4c1843ab9e9c5bfc63bce1d3eda07d07", "DefectiveContract": [], "AttackSurface": "Claiming rewards,investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Kaoya Swap", "Time": "2022-08-24", "Platform": "BSC", "AttackTx": "0xc8db3b620656408a5004844703aa92d895eb3527da057153f0b09f0b58208d74", "DefectiveContract": ["0x97af028838604c59f93b279d3b6f6cbbf74bc680"], "AttackSurface": "receiving token by users, exchange"}

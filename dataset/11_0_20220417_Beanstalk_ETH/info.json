@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Beanstalk", "Time": "2022-04-17", "Platform": "ETH", "AttackTx": "0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7", "DefectiveContract": ["0xC1E088fC1323b20BCBee9bd1B9fC9546db5624C5"], "AttackSurface": "Voting, governance"}

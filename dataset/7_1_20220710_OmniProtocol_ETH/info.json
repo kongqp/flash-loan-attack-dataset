@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Omni Protocol", "Time": "2022-07-10", "Platform": "ETH", "AttackTx": "0x264e16f4862d182a6a0b74977df28a85747b6f237b5e229c9a5bbacdf499ccb4", "DefectiveContract": ["0x218615c78104e16b5f17764d35b905b638fe4a92"], "AttackSurface": "Borrowing a loan, lending"}

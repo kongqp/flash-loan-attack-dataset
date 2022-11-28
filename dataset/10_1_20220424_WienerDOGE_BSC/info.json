@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Wiener DOGE", "Time": "2022-04-24", "Platform": "BSC", "AttackTx": "0x4f2005e3815c15d1a9abd8588dd1464769a00414a6b7adcbfd75a5331d378e1d", "DefectiveContract": ["0xb3e708a6d1221ed7c58b88622fdbee2c03e4db4d"], "AttackSurface": "receiving token by users, exchange"}

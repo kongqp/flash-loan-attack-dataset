@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Cream Finance", "Time": "2021-10-27", "Platform": "ETH", "AttackTx": "0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92", "DefectiveContract": ["0x02e795eec131246128346d17d2f564d7bf7c705b", "0x338eee1f7b89ce6272f302bdc4b952c13b221f1d", "0x4b5bfd52124784745c1071dcb244c6688d2533d3"], "AttackSurface": "Depositing collaterals, lending"}

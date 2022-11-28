@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "bZx", "Time": "2020-02-18", "Platform": "ETH", "AttackTx": "0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15", "DefectiveContract": ["0x85ca13d8496b2d22d6518faeb524911e096dd7e0"], "AttackSurface": "Depositing collaterals, lending"}

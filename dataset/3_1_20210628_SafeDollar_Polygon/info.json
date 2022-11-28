@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "SafeDollar", "Time": "2021-06-28", "Platform": "Polygon", "AttackTx": "0x1360315a16aec1c7403d369bd139f0fd55a99578d117cb5637b234a0a0ee5c14", "DefectiveContract": ["0x17684f4d5385fac79e75ceafc93f22d90066ed5c"], "AttackSurface": "Claiming rewards,investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "ApeRocket", "Time": "2021-07-14", "Platform": "BSC", "AttackTx": "0x701a308fba23f9b328d2cdb6c7b245f6c3063a510e0d5bc21d2477c9084f93e0", "DefectiveContract": ["0x274b5b7868c848ac690dc9b4011e9e7e29133700"], "AttackSurface": "Claiming rewards,investment"}

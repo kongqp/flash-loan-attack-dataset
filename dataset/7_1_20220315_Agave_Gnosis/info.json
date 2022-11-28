@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Agave", "Time": "2022-03-15", "Platform": "Gnosis", "AttackTx": "0xa262141abcf7c127b88b4042aee8bf601f4f3372c9471dbd75cb54e76524f18e", "DefectiveContract": ["0x85b79018c781b499f2878bee14e4e8b5db31ac61"], "AttackSurface": "Borrowing a loan, lending"}

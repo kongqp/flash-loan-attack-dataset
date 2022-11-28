@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Warp Finance", "Time": "2020-12-17", "Platform": "ETH", "AttackTx": "0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090", "DefectiveContract": ["0xba539b9a5c2d412cb10e5770435f362094f9541c", "0x4a224cd0517f08b26608a2f73bf390b01a6618c8"], "AttackSurface": "Depositing collaterals, lending"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Pancake Hunny", "Time": "2021-10-20", "Platform": "BSC", "AttackTx": "0x1b698231965b72f64d55c561634600b087154f71bc73fc775622a45112a94a77", "DefectiveContract": ["0x27d4ca4bb855e435959295ec273fa16fe8caea14"], "AttackSurface": "Claiming rewards,investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "XSURGE", "Time": "2021-08-17", "Platform": "BSC", "AttackTx": "0x7e2a6ec08464e8e0118368cb933dc64ed9ce36445ecf9c49cacb970ea78531d2", "DefectiveContract": ["0xe1e1aa58983f6b8ee8e4ecd206cea6578f036c21"], "AttackSurface": "receiving token by users, exchange"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Wault.Finance", "Time": "2021-08-04", "Platform": "BSC", "AttackTx": "0x31262f15a5b82999bf8d9d0f7e58dcb1656108e6031a2797b612216a95e1670e", "DefectiveContract": ["0xa79fe386b88fbee6e492eeb76ec48517d1ec759a"], "AttackSurface": "receiving token by users, exchange"}

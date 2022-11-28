@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "APE", "Time": "2022-03-17", "Platform": "ETH", "AttackTx": "0xeb8c3bebed11e2e4fcd30cbfc2fb3c55c4ca166003c7f7d319e78eaab9747098", "DefectiveContract": ["0x73D2ff81fceA9832FC9Ee90521ABde1150F6b52a"], "AttackSurface": "Claiming rewards,investment"}

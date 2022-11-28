@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "AutoShark", "Time": "2021-05-25", "Platform": "BSC", "AttackTx": "0xfbe65ad3eed6b28d59bf6043debf1166d3420d214020ef54f12d2e0583a66f13", "DefectiveContract": ["0xa007d347f2e55d731e101aae64722c321b2b80dc"], "AttackSurface": "Claiming rewards,investment"}

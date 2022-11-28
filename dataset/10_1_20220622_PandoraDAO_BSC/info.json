@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "PandoraDAO", "Time": "2022-06-22", "Platform": "BSC", "AttackTx": "0x1fff2189ef23e3c6dd3d643cbb91ee7ae20686fb6584e6d987f7fc55d98923be", "DefectiveContract": ["0x83757110409d993fcf3610260d7af753e2423529"], "AttackSurface": "receiving token by users, exchange"}

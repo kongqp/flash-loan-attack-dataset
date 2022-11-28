@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Cupid", "Time": "2022-08-31", "Platform": "BSC", "AttackTx": "0xed348e1d6ef1c26e0040c6c3f933ea51f953bdbafad7fb11c593f6837909c079", "DefectiveContract": [], "AttackSurface": "Claiming rewards,investment"}

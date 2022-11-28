@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Visor Finance", "Time": "2021-11-28", "Platform": "ETH", "AttackTx": "0x4208ef772b9ecb7a0494510101525e765240568d3788bab555942d344b984f67", "DefectiveContract": ["0x65bc5c6a2630a87c2b494f36148e338dd76c054f"], "AttackSurface": "Getting LP tokens, investment"}

@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Balancer", "Time": "2020-06-28", "Platform": "ETH", "AttackTx": "0x013be97768b702fe8eccef1a40544d5ecb3c1961ad5f87fee4d16fdc08c78106", "DefectiveContract": ["0x0e511aa1a137aad267dfe3a6bfca0b856c1a3682"], "AttackSurface": "receiving token by users, exchange"}

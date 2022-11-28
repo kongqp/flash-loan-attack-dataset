@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "OneRing", "Time": "2022-03-21", "Platform": "Fantom", "AttackTx": "0xca8dd33850e29cf138c8382e17a19e77d7331b57c7a8451648788bbb26a70145", "DefectiveContract": ["0xc06826f52f29b34c5d8b2c61abf844cebcf78abf"], "AttackSurface": "Removing liquidity, investment"}

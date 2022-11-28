@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "SpaceGodzilla", "Time": "2022-07-14", "Platform": "BSC", "AttackTx": "0x7f183df11f1a0225b5eb5bb2296b5dc51c0f3570e8cc15f0754de8e6f8b4cca4", "DefectiveContract": ["0x2287c04a15bb11ad1358ba5702c1c95e2d13a5e0"], "AttackSurface": "receiving token by users, exchange"}

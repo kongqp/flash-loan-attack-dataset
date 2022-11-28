@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Fei Protocol", "Time": "2022-04-30", "Platform": "ETH", "AttackTx": "0xab486012f21be741c9e674ffda227e30518e8a1e37a5f1d58d0b0d41f6e76530", "DefectiveContract": ["0x67db14e73c2dce786b5bbbfa4d010deab4bbfcf9", "0xe16db319d9da7ce40b666dd2e365a4b8b3c18217"], "AttackSurface": "Borrowing a loan, lending"}

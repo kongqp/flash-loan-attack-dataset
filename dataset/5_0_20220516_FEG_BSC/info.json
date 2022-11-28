@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "FEG", "Time": "2022-05-16", "Platform": "BSC", "AttackTx": "0x77cf448ceaf8f66e06d1537ef83218725670d3a509583ea0d161533fda56c063", "DefectiveContract": ["0x73b359d5da488eb2e97990619976f2f004e9ff7c"], "AttackSurface": "Removing liquidity, investment"}

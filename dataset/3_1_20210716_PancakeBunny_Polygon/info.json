@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Pancake Bunny", "Time": "2021-07-16", "Platform": "Polygon", "AttackTx": "0x25e5d9ea359be7fc50358d18c2b6d429d27620fe665a99ba7ad0ea460e50ae55", "DefectiveContract": ["0x9a02bd1d7a46c93fb826f63b4764096797ce7205"], "AttackSurface": "Claiming rewards,investment"}

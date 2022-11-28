@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "xToken", "Time": "2021-05-12", "Platform": "ETH", "AttackTx": "0x7cc7d935d895980cdd905b2a134597fb91004b5d551d6db0fb265e3d9840da22", "DefectiveContract": ["0x04bef870de607519c91d16a23434ad5745f62a63", "0x818e6fecd516ecc3849daf6845e3ec868087b755"], "AttackSurface": "receiving token by users, exchange"}

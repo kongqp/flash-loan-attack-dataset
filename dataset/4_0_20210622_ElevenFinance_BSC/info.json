@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Eleven Finance", "Time": "2021-06-22", "Platform": "BSC", "AttackTx": "0x6450d8f4db09972853e948bee44f2cb54b9df786dace774106cd28820e906789", "DefectiveContract": ["0x27dd6e51bf715cfc0e2fe96af26fc9ded89e4be8"], "AttackSurface": "Burning LP tokens, investment"}

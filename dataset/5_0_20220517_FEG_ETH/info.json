@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "FEG", "Time": "2022-05-17", "Platform": "ETH", "AttackTx": "0xc0031514e222bf2f9f1a57a4af652494f08ec6e401b6ae5b4761d3b41e266a59", "DefectiveContract": ["0x378c77c5379ca07bbb5b3506c08a1c769dec91c2"], "AttackSurface": "Removing liquidity, investment"}

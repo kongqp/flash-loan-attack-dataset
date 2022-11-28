@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "LPC Token", "Time": "2022-07-25", "Platform": "BSC", "AttackTx": "0x0e970ed84424d8ea51f6460ce6105ab68441d4450a80bc8d749fdf01e504ed8c", "DefectiveContract": ["0x1e813fa05739bf145c1f182cb950da7af046778d"], "AttackSurface": "receiving token by users, exchange"}

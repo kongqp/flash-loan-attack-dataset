@@ -1,0 +1,1 @@
+{"ExploitedProtocol": "Lever Network", "Time": "2021-11-26", "Platform": "BSC", "AttackTx": "0xb5365a299c07c81670e52934893793ad7c225a5cf30b641e20b451b2b5815593", "DefectiveContract": ["0x38b5EAFA208cC7Bc6D2D59688630e3b03D4B1e26"], "AttackSurface": "Paying back, lending"}
